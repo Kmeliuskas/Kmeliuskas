@@ -24,10 +24,10 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em 
 
 ## 🚀 Projetos em destaque
 
-### 🍕 [Contador de Pizza](https://github.com/Kmeliuskas/Contador_de_Pizza_Online)
+### 🍕 [Contador de Pizza](https://kmeliuskas.github.io/Contador_de_Pizza_Online/)
 Uma aplicação divertida e funcional para organizar pedidos de pizza de forma colaborativa.
 
-### 📄 [Currículo Online](https://github.com/Kmeliuskas/matteocurriculo.github.io)
+### 📄 [Currículo Online](https://kmeliuskas.github.io/matteocurriculo.github.io/)
 Meu currículo profissional em formato web responsivo, com visual moderno e elegante.
 
 ---
