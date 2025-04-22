@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Matteo Kmeliuskas 👋
 
-<!--
-**Kmeliuskas/Kmeliuskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em criar soluções inteligentes e eficientes. Atualmente estou aprendendo muito sobre:
 
-Here are some ideas to get you started:
+- 🔧 PHP, MySQL, JavaScript, jQuery
+- 📱 Flutter & APIs REST
+- 🛠️ Sistemas HelpDesk, Agenda de Contatos, Controle de Veículos, Apps flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## 🚀 Projetos em Destaque
+🔹 [Agenda de Contatos com Flutter + API REST](https://github.com/seuusuario/flutter-agenda-contatos)  
+🔹 [Sistema HelpDesk com PHP + Bootstrap + AJAX](https://github.com/seuusuario/helpdesk-sistema)
+
+## 📈 GitHub Stats
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+
+---
