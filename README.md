@@ -16,6 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em 
 ![ES6](https://img.shields.io/badge/-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0D6EFD?style=flat&logo=jquery&logoColor=white)
+![Angular 4](https://img.shields.io/badge/Angular_4-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
