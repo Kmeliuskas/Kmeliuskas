@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em 
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0D6EFD?style=flat&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-000000?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PHP 7](https://img.shields.io/badge/PHP_7-777BB4?style=flat&logo=php&logoColor=white)
