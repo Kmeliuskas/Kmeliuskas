@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PHP 7](https://img.shields.io/badge/PHP_7-777BB4?style=flat&logo=php&logoColor=white)
 ![PHP 8](https://img.shields.io/badge/PHP_8-8892BF?style=flat&logo=php&logoColor=white)
-![Slim Framework](https://img.shields.io/badge/Slim_Framework-74C043?style=flat&logo=php&logoColor=white)
+![Slim Framework](https://img.shields.io/badge/Slim_Framework-74C043?style=flat&logo=&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
