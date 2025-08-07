@@ -19,6 +19,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Progress4GL/ABL](https://img.shields.io/badge/-Progress4GL/ABL-0085CA?style=flat)
+![Tawilind](https://img.shields.io/badge/Tawilind-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 
