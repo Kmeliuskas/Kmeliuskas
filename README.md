@@ -73,4 +73,8 @@
 
 ---
 
-> “Sempre buscando a próxima linha de código que vai resolver o mundo.”
+<div align="center">
+
+### 🚀 Sempre buscando a próxima linha de código que vai resolver o mundo.
+
+</div>
