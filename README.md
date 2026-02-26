@@ -1,79 +1,72 @@
-# Olá, eu sou o Matteo Kmeliuskas 👋
+# 👋 Olá, eu sou o Matteo Kmeliuskas
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em transformar ideias em soluções eficientes e funcionais. Curioso por natureza, estou sempre explorando novas linguagens e frameworks.
-
----
-
-## 🧠 Tecnologias que uso no dia a dia
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
-![Bootstrap 4](https://img.shields.io/badge/Bootstrap_4-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tawilind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![ES6](https://img.shields.io/badge/-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-0D6EFD?style=flat&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Angular 4](https://img.shields.io/badge/Angular_4-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP 7](https://img.shields.io/badge/PHP_7-777BB4?style=flat&logo=php&logoColor=white)
-![PHP 8](https://img.shields.io/badge/PHP_8-8892BF?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)
-![Slim Framework](https://img.shields.io/badge/Slim_Framework-74C043?style=flat&logo=&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Progress4GL/ABL](https://img.shields.io/badge/-Progress4GL/ABL-0085CA?style=flat&logo=totvs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-
-
-
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas.  
+🚀 Transformo ideias em aplicações funcionais, performáticas e bem estruturadas.  
+🧠 Sempre aprendendo novas linguagens, frameworks e boas práticas de arquitetura.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Sobre mim
 
-### 🍕 [Contador de Pizza](https://kmeliuskas.github.io/Contador_de_Pizza_Online/)
-Uma aplicação divertida e funcional para organizar pedidos de pizza de forma colaborativa.
-
-### 📄 [Currículo Online](https://kmeliuskas.github.io/matteocurriculo.github.io/)
-Meu currículo profissional em formato web responsivo, com visual moderno e elegante.
-
----
-
-## 📊 GitHub Stats
-
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmeliuskas&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmeliuskas&layout=compact&theme=tokyonight)
+- 🔭 Atualmente focado em desenvolvimento Web e Mobile
+- 📚 Estudando constantemente novas tecnologias
+- ⚡ Forte interesse em performance, arquitetura e boas práticas
+- 🎯 Objetivo: Criar soluções escaláveis e de alto impacto
 
 ---
 
-## 📫 Como me encontrar
+## 🛠️ Stack Principal
 
-Você pode me acompanhar aqui pelo GitHub ou entrar em contato por outras redes
-Gmail: matteokmeliuskas@gmail.com
-Linkedin: matteokmeliuskas
+### 🌐 Front-End
+HTML5 • CSS3 • SASS • JavaScript (ES6+) • TypeScript  
+React • Next.js • Vue.js • Angular • Bootstrap • Tailwind CSS  
+jQuery • AJAX  
 
+### 🔙 Back-End
+Node.js • PHP 7/8 • Laravel • Slim Framework  
+MySQL  
+
+### 📱 Mobile
+React Native • Flutter • Ionic • Kotlin • Dart  
+
+### 🖥️ Outros Conhecimentos
+C • C++ • Python • Java • Unity  
+WordPress • Magento  
+Git • GitHub  
+Figma  
+Kali Linux  
+Progress4GL/ABL  
 
 ---
 
-**“Sempre buscando a próxima linha de código que vai resolver o mundo.”**
+## 🚀 Projetos em Destaque
+
+### 🍕 Contador de Pizza
+Aplicação colaborativa para organização de pedidos de pizza em grupo.  
+🔗 https://kmeliuskas.github.io/Contador_de_Pizza_Online/
+
+---
+
+### 📄 Currículo Online
+Currículo profissional desenvolvido em formato web responsivo com design moderno.  
+🔗 https://kmeliuskas.github.io/matteocurriculo.github.io/
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kmeliuskas&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmeliuskas&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+---
+
+## 📫 Contato
+
+📧 Email: matteokmeliuskas@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/matteokmeliuskas  
+🌎 GitHub: https://github.com/Kmeliuskas  
+
+---
+
+> “Sempre buscando a próxima linha de código que vai resolver o mundo.”
