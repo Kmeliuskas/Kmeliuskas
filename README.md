@@ -69,7 +69,10 @@ Meu currículo profissional em formato web responsivo, com visual moderno e eleg
 
 ## 📫 Como me encontrar
 
-Você pode me acompanhar aqui pelo GitHub ou entrar em contato por outras redes (adicione aqui se quiser colocar LinkedIn, e-mail, etc).
+Você pode me acompanhar aqui pelo GitHub ou entrar em contato por outras redes
+Gmail: matteokmeliuskas@gmail.com
+Linkedin: matteokmeliuskas
+
 
 ---
 
